@@ -1,6 +1,6 @@
 # <span style="color:#003b6c;">Sinan Mohamed</span>
 
-📧 [sinan.sms@hotmail.com](mailto:sinan.sms@hotmail.com) | [LinkedIn](https://linkedin.com/in/sinan7)
+<span style="color:gold;">📧 <a href="mailto:sinan.sms@hotmail.com" style="color:gold;">sinan.sms@hotmail.com</a> | <a href="https://linkedin.com/in/sinan7" style="color:gold;">LinkedIn</a></span>
 
 ## <span style="color:#003b5c;">About Me</span>
 
