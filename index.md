@@ -142,7 +142,7 @@ Note: Pursuing ongoing online learning across diverse platforms to stay current 
 
 ## Links to My Documents
 
-- **[My Complete CV](Sinan_CV(1).pdf)**
+- **[My Complete CV](docs/Sinan_CV(1).pdf)**
 - **[My Certificates](certificates.md)**
 - **[DHL Experience](dhl_experience.md)**
 - **[My Hobbies](hobbies.md)**
