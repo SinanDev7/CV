@@ -1,4 +1,4 @@
-# <span style="color:#003b5c;">My Portfolio</span>
+# <span style="color:#003b5c;">Sinan Mohamed</span>
 
 ## <span style="color:#003b5c;">About Me</span>
 
