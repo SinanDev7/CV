@@ -136,14 +136,13 @@ Note: Pursuing ongoing online learning across diverse platforms to stay current 
 ### <span style="color:#003b5c;">Al-Falah Welfare Association (AFWA)</span>
 - **Executive Member (2015 – Present)**
   - Created and managed social media accounts and designed the logo for AFWA.
-  - 
+
 
 # Welcome to My Portfolio
 
 ## Links to My Documents
 
-- **[My Complete CV](docs/Sinan_CV(1).pdf)**
+- **[My Complete CV](Sinan_CV(1).pdf)**
 - **[My Certificates](certificates.md)**
 - **[DHL Experience](dhl_experience.md)**
 - **[My Hobbies](hobbies.md)**
-  
