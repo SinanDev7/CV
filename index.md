@@ -1,4 +1,6 @@
-# <span style="color:#003b5c;">Sinan Mohamed</span>
+# <span style="color:#003b6c;">Sinan Mohamed</span>
+
+📧 [sinan.sms@hotmail.com](mailto:sinan.sms@hotmail.com) | [LinkedIn](https://linkedin.com/in/sinan7)
 
 ## <span style="color:#003b5c;">About Me</span>
 
